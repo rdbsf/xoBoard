@@ -1,8 +1,8 @@
-** Tic-Tac-Toe Board
+***Tic-Tac-Toe Board***
 
--- Command line setup of game to let user move and cpu take first available move
+- Command line setup of game to let user move and cpu take first available move
 
--- Created during timed  online interview practice
+- Created during timed  online interview practice
 
 ```
 php index.php
